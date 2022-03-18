@@ -1,1 +1,0 @@
-# FairTradingPost Build || Vue project
